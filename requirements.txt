@@ -1,4 +1,4 @@
-Flask==1.0.3
+Flask==2.3.2
 Flask-Bcrypt==0.7.1
 Flask-JWT-Extended==3.18.2
 Flask-PyMongo==2.3.0
